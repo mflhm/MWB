@@ -50,7 +50,6 @@ PyQtChart==5.12
 PyQtWebEngine==5.12.1
 pyrsistent @ file:///C:/ci/pyrsistent_1636111468851/work
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
-pywin32==228
 pywinpty==0.5.7
 pyzmq @ file:///C:/ci/pyzmq_1628276144921/work
 qtconsole @ file:///home/conda/feedstock_root/build_artifacts/qtconsole_1625023841584/work
@@ -58,7 +57,6 @@ QtPy @ file:///home/conda/feedstock_root/build_artifacts/qtpy_1632440819550/work
 Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
 six @ file:///tmp/build/80754af9/six_1623709665295/work
 sniffio==1.2.0
-terminado==0.9.4
 testpath @ file:///tmp/build/80754af9/testpath_1624638946665/work
 tornado @ file:///C:/ci/tornado_1606942392901/work
 traitlets @ file:///tmp/build/80754af9/traitlets_1632522747050/work
