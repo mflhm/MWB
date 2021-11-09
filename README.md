@@ -1,8 +1,16 @@
-# jupyter_webapp_demo
-Code for the article "How to Create an Interactive Web Application using Jupyter Notebook".
+# Stroke
+This web page is use to raise awarness of Stroke and calculate the potential of developing Stroke
+https://mybinder.org/v2/gh/mflhm/Marsnotebook/HEAD?urlpath=%2Fvoila%2Frender%2FDemo.ipynb
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nghweigeok/jupyter_webapp_demo/HEAD?urlpath=%2Fvoila%2Frender%2FDemo.ipynb)
+## References
+[1] H G Ng (2021, Feburary 25) “How to Create an Interactive Web Application using a juypter notebook”. [Online]. Retrieved on 18 October 2021 from: https://blog.finxter.com/how-to-create-an-interactive-web-application-using-jupyter-notebook/
 
-Try the demo here: https://mybinder.org/v2/gh/nghweigeok/jupyter_webapp_demo/HEAD?urlpath=%2Fvoila%2Frender%2FDemo.ipynb
+EE0005 Intro to Data Science and Artifical Intelligence  
+Mini Project 
+AY2021-2022 S1 | EE10
 
-Complete blog article and video tutorial: https://blog.finxter.com/how-to-create-an-interactive-web-application-using-jupyter-notebook/
+Team Members:
+1. Low Ai Ning 
+2. Melissa Lim 
+3. Mercy Rex
+4. Preethi Renganathan
